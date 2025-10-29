@@ -1,16 +1,16 @@
 # Profilo Gamer🎮
 
-**Età:** 18
-**Nikname:** raffaele07
-**Piattaforma preferita:** PS4
+- **Età:** 18
+- **Nikname:** raffaele07
+- **Piattaforma preferita:** PS4
 
 ## Videogiochi preferiti🥇
 
--Fifa26
--GTAV
--GOD OF WAR
--FORTNITE
--MINECRAFT
+- Fifa26
+- GTAV
+- GOD OF WAR
+- FORTNITE
+- MINECRAFT
 
 ## Link utili
 
