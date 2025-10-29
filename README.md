@@ -14,8 +14,8 @@
 
 ## Link utili
 
--[playstation store](https://store.playstation.com/)
--[twitch](https://www.twitch.tv/)
+- [playstation store](https://store.playstation.com/)
+- [twitch](https://www.twitch.tv/)
 
 ## Immagine
 
@@ -23,6 +23,6 @@
 
 ## Recensione: "Fifa26"
 
--Fifa26 è un bellissimo gioco molto più veloce e realistico di fifa25.
+- Fifa26 è un bellissimo gioco molto più veloce e realistico di fifa25.
 
 
